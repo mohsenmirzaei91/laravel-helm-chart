@@ -1,5 +1,5 @@
 apiVersion: v2
-name: vibspecdb
+name: mohsen
 description: A Helm chart of Mohsen-Laravel Application for K8S
 home: https://mirzaei.k8s
 maintainers:
