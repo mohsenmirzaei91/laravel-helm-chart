@@ -41,7 +41,3 @@ dependencies:
   version: "8.24.12"
   repository: https://charts.bitnami.com/bitnami
   condition: rabbitmq.enabled
-- name: meilisearch
-  version: "0.1.22"
-  repository: https://meilisearch.github.io/meilisearch-kubernetes
-  condition: meilisearch.enabled
