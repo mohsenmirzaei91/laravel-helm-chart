@@ -8,8 +8,8 @@ data:
   APP_ENV: "production"
   APP_DEBUG: "true"
   APP_PORT: "443"
-  APP_URL: "https://vibspecdb.k8s.photonicdata.science/"
-  ASSET_URL: "https://vibspecdb.k8s.photonicdata.science/"
+  APP_URL: "https://mohsen.k8s.photonicdata.science/"
+  ASSET_URL: "https://mohsen.k8s.photonicdata.science/"
   LOG_CHANNEL: "stdout"
   DB_USERNAME: {{ .Values.postgresql.postgresqlUsername }}
   DB_CONNECTION: "pgsql"
